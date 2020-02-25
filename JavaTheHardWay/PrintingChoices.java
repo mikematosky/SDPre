@@ -18,7 +18,7 @@ public class PrintingChoices{
     System.out.println("");
     System.out.println("This"+" "+"is"+" "+"a"+" "+"test.");
     /*
-      Choosing to omit the spaces between ""s for compact readability
+      Choosing to omit the spaces between ""s for readability
     */
     System.out.println("I am"+" learning Java"+" "+"the Hard "+"Way!");
   }
