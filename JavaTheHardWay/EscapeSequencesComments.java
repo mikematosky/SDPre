@@ -15,7 +15,7 @@ public class EscapeSequencesComments{
     System.out.print( "I hope you understand \"escape sequences\" now.\n" );
     // and comments. :)
     /*
-      ===LINE 13 BLOCK COMMENT EXERCISE FAILS
+      ===LINE 13 BLOCK COMMENT EXERCISE FAILS===
     */
   }
 }
