@@ -2,11 +2,11 @@ public class Objective2Lab3 {
   public static void main(String[] args) {
     String food1, food2, food3;
 
-    food1= "Mac n Cheese";
-    food2= "Pizza";
-    food3= "Rice Krispy Treats";
+    food1= "1. Mac n Cheese";
+    food2= "2. Pizza";
+    food3= "3. Rice Krispy Treats";
 
-    System.out.println("My favorite foods are:");
+    System.out.println("My Favorite Foods Are:");
     System.out.print(food1+"\n"+food2+"\n"+food3+"\n"); //playing with escapes
 
     /*
